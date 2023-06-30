@@ -1,0 +1,18 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "This is a ExpressJs practice demo",
+  "main": "index.js",
+  "scripts": {
+   "start":"node index.js",
+   "server":"nodemon index.js"
+  },
+  "author": "Mahendra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
